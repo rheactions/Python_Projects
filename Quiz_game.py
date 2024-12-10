@@ -67,6 +67,8 @@ if answer.lower() == "payal": #in ("John","Dan","Payal") :
 else:
     print("Incorrect")
 
+print(f"Congratulations you have scored {(point/4)*100}% in the quiz")
+
 
 
 
