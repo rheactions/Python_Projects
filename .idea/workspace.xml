@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="10_Dec">
-      <change afterPath="$PROJECT_DIR$/Choose_your_own_adventure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Password_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rock_paper_scissor.py" afterDir="false" />
+    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="15_Dec">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Number_guesser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Quiz_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Rock_paper_scissor.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Number_guesser.executor": "Run",
+    "Python.Password_manager.executor": "Run",
+    "Python.Quiz_game.executor": "Run",
+    "Python.Rock_paper_scissor.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1733854230449</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="15_Dec">
+      <option name="closed" value="true" />
+      <created>1734281904014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734281904014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10_Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="10_Dec" />
+    <MESSAGE value="15_Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="15_Dec" />
   </component>
 </project>
