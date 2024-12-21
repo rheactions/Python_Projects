@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="15_Dec">
+    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="16_Dec">
+      <change afterPath="$PROJECT_DIR$/alphabet_counter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Python.Password_manager.executor": "Run",
     "Python.Quiz_game.executor": "Run",
     "Python.Rock_paper_scissor.executor": "Run",
+    "Python.alphabet_counter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -94,12 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734281904014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16_Dec">
+      <option name="closed" value="true" />
+      <created>1734380084666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734380084666</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10_Dec" />
     <MESSAGE value="15_Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="15_Dec" />
+    <MESSAGE value="16_Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="16_Dec" />
   </component>
 </project>
