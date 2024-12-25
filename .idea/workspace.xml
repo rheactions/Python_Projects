@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="16_Dec">
-      <change afterPath="$PROJECT_DIR$/alphabet_counter.py" afterDir="false" />
+    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="21_Dec">
+      <change afterPath="$PROJECT_DIR$/Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonaaci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Remove_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/even_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest and smallest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version_checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +54,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Anagrams.executor": "Run",
+    "Python.Fibonaaci.executor": "Run",
     "Python.Number_guesser.executor": "Run",
     "Python.Password_manager.executor": "Run",
     "Python.Quiz_game.executor": "Run",
+    "Python.Remove_duplicates.executor": "Run",
+    "Python.Reverse string.executor": "Run",
     "Python.Rock_paper_scissor.executor": "Run",
     "Python.alphabet_counter.executor": "Run",
+    "Python.even_number.executor": "Run",
+    "Python.largest and smallest.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "Python.prime.executor": "Run",
+    "Python.prime_number.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -103,13 +120,30 @@
       <option name="project" value="LOCAL" />
       <updated>1734380084666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="16_Dec">
+      <option name="closed" value="true" />
+      <created>1734802078311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734802078311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="21_Dec">
+      <option name="closed" value="true" />
+      <created>1734802110817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734802110817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10_Dec" />
     <MESSAGE value="15_Dec" />
     <MESSAGE value="16_Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="16_Dec" />
+    <MESSAGE value="21_Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="21_Dec" />
   </component>
 </project>
