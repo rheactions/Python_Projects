@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="21_Dec">
-      <change afterPath="$PROJECT_DIR$/Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonaaci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Remove_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest and smallest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/version_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find the missing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_occurance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +49,7 @@
   "keyToString": {
     "Python.Anagrams.executor": "Run",
     "Python.Fibonaaci.executor": "Run",
+    "Python.Find the missing.executor": "Run",
     "Python.Number_guesser.executor": "Run",
     "Python.Password_manager.executor": "Run",
     "Python.Quiz_game.executor": "Run",
@@ -63,6 +57,7 @@
     "Python.Reverse string.executor": "Run",
     "Python.Rock_paper_scissor.executor": "Run",
     "Python.alphabet_counter.executor": "Run",
+    "Python.count_occurance.executor": "Run",
     "Python.even_number.executor": "Run",
     "Python.largest and smallest.executor": "Run",
     "Python.palindrome.executor": "Run",
@@ -136,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734802110817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21_Dec">
+      <option name="closed" value="true" />
+      <created>1735103085274</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735103085274</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
