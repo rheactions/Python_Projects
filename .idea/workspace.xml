@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="21_Dec">
-      <change afterPath="$PROJECT_DIR$/Find the missing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_occurance.py" afterDir="false" />
+    <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="25_Dec">
+      <change afterPath="$PROJECT_DIR$/COUNT_specific.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convertstringtolowercase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flatten a nexted list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge._lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort in ascending order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conc_list2str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index of element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intersection_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove specific.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remove_puntuations.py" beforeDir="false" afterPath="$PROJECT_DIR$/remove_puntuations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +57,31 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Anagrams.executor": "Run",
+    "Python.COUNT_specific.executor": "Run",
+    "Python.Convertstringtolowercase.executor": "Run",
     "Python.Fibonaaci.executor": "Run",
     "Python.Find the missing.executor": "Run",
+    "Python.Flatten a nexted list.executor": "Run",
+    "Python.Merge._lists.executor": "Run",
     "Python.Number_guesser.executor": "Run",
     "Python.Password_manager.executor": "Run",
     "Python.Quiz_game.executor": "Run",
     "Python.Remove_duplicates.executor": "Run",
+    "Python.Reverse a list.executor": "Run",
     "Python.Reverse string.executor": "Run",
     "Python.Rock_paper_scissor.executor": "Run",
+    "Python.Sort in ascending order.executor": "Run",
     "Python.alphabet_counter.executor": "Run",
+    "Python.conc_list2str.executor": "Run",
     "Python.count_occurance.executor": "Run",
     "Python.even_number.executor": "Run",
+    "Python.intersection_of_list.executor": "Run",
     "Python.largest and smallest.executor": "Run",
     "Python.palindrome.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime_number.executor": "Run",
+    "Python.remove specific.executor": "Run",
+    "Python.remove_puntuations.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -139,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735103085274</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="25_Dec">
+      <option name="closed" value="true" />
+      <created>1735128521539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735128521539</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +174,7 @@
     <MESSAGE value="15_Dec" />
     <MESSAGE value="16_Dec" />
     <MESSAGE value="21_Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="21_Dec" />
+    <MESSAGE value="25_Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="25_Dec" />
   </component>
 </project>
