@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="25_Dec">
-      <change afterPath="$PROJECT_DIR$/COUNT_specific.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convertstringtolowercase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flatten a nexted list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Merge._lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reverse a list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort in ascending order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conc_list2str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index of element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intersection_of_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove specific.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_num_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge lists in onw list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove_puntuations.py" beforeDir="false" afterPath="$PROJECT_DIR$/remove_puntuations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flatten a nexted list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flatten a nexted list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index of element.py" beforeDir="false" afterPath="$PROJECT_DIR$/index of element.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +53,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Anagrams.executor": "Run",
+    "Python.Anagrams.executor": "Debug",
     "Python.COUNT_specific.executor": "Run",
     "Python.Convertstringtolowercase.executor": "Run",
+    "Python.Factorial.executor": "Run",
     "Python.Fibonaaci.executor": "Run",
     "Python.Find the missing.executor": "Run",
     "Python.Flatten a nexted list.executor": "Run",
@@ -73,10 +71,14 @@
     "Python.Sort in ascending order.executor": "Run",
     "Python.alphabet_counter.executor": "Run",
     "Python.conc_list2str.executor": "Run",
+    "Python.count_num_words.executor": "Run",
     "Python.count_occurance.executor": "Run",
+    "Python.count_vowel.executor": "Run",
     "Python.even_number.executor": "Run",
+    "Python.index of element.executor": "Run",
     "Python.intersection_of_list.executor": "Run",
     "Python.largest and smallest.executor": "Run",
+    "Python.merge lists in onw list.executor": "Run",
     "Python.palindrome.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime_number.executor": "Run",
