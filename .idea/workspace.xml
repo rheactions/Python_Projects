@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69ea7de0-ec83-45bd-9095-48e94c66966d" name="Changes" comment="25_Dec">
-      <change afterPath="$PROJECT_DIR$/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_num_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/merge lists in onw list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slicing_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_15march.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicing_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicing_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicing_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicing_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flatten a nexted list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flatten a nexted list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index of element.py" beforeDir="false" afterPath="$PROJECT_DIR$/index of element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/longest_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/longest_palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "Python.Reverse a list.executor": "Run",
     "Python.Reverse string.executor": "Run",
     "Python.Rock_paper_scissor.executor": "Run",
+    "Python.Slicing_1.executor": "Run",
     "Python.Sort in ascending order.executor": "Run",
     "Python.alphabet_counter.executor": "Run",
     "Python.conc_list2str.executor": "Run",
@@ -76,14 +77,20 @@
     "Python.count_vowel.executor": "Run",
     "Python.even_number.executor": "Run",
     "Python.index of element.executor": "Run",
+    "Python.input_15march.executor": "Run",
     "Python.intersection_of_list.executor": "Run",
     "Python.largest and smallest.executor": "Run",
+    "Python.longest_palindrome.executor": "Run",
     "Python.merge lists in onw list.executor": "Run",
     "Python.palindrome.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime_number.executor": "Run",
     "Python.remove specific.executor": "Run",
     "Python.remove_puntuations.executor": "Run",
+    "Python.slicing_2.executor": "Run",
+    "Python.slicing_3.executor": "Run",
+    "Python.slicing_4.executor": "Run",
+    "Python.slicing_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
