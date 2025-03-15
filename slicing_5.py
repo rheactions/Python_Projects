@@ -28,12 +28,12 @@ print(reverse_vowel(s))
 
 # Summary Table of Iterations
 # Iteration	left	right	s[left]	s[right]	Action Taken
-# 1	0	10	h	d	Move both
-# 2	1	9	e	l	Move right
-# 3	1	8	e	r	Move right
-# 4	1	7	e	o	Swap → "holle world"
-# 5	2	6	l	w	Move left
-# 6	3	6	l	w	Move left
-# 7	4	6	e	o	Swap → "hollo werld"
-# 8	5	5	Space	Space	Stop loop
+# 1	        0	     10	     h	     d	        Move both
+# 2	        1	     9	     e	     l	        Move right
+# 3	        1	     8	     e	     r	        Move right
+# 4	        1	     7	     e	     o	        Swap → "holle world"
+# 5	        2	     6	     l	     w	        Move left
+# 6	        3	     6	     l	     w	        Move left
+# 7	        4	     6	     e	     o	        Swap → "hollo werld"
+# 8	        5	     5	     Space	 Space	    Stop loop
 
